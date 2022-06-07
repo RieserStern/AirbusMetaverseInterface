@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190659742415",
+    "project_id": "airbus-metaverse-database",
+    "storage_bucket": "airbus-metaverse-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190659742415:android:d18c955c635fa0a7e5c5ba",
+        "android_client_info": {
+          "package_name": "com.example.airbusmetaverseinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190659742415-jesh7b2b8dnro9vlvg4sgl8710sec34p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutAHmDWkpdfB0YXnVRbK_BdjUZN-pGXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190659742415-jesh7b2b8dnro9vlvg4sgl8710sec34p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
